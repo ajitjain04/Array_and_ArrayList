@@ -23,5 +23,5 @@ A Java program demonstrating various array and ArrayList operations, including:
 ### **5. arrayInput()**
 - Takes 5 numbers as input and returns them as an array.
 
-## Example Usage
+
 
